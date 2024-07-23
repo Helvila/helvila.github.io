@@ -19,16 +19,12 @@ Digital Talent Incubator (Data Science and Machine Learning)
 Capstone Projects
 Python Journal Application (March - April 2024):
 - A simple command-line journal application written in Python for creating, editing, deleting, searching, and displaying journal entries.
-- GitHub Repository :
 
 Online Shipping Retail Analysis (May - June 2024):
 - Analyzed factors affecting delivery delays and their impact on customer satisfaction in online retail.
-- GitHub Repository
-- Tableau Dashboard
 
 Optimize Bank Marketing Campaign (June - July 2024):
 - Developed a predictive model to identify customers likely to subscribe to term deposits.
-- GitHub Repository
 
 ### Education
 University of Riau
